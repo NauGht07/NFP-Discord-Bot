@@ -14,7 +14,21 @@ Once you sign up as an artist, you will be able to post your work on the marketp
 
 ## Development Updates
 Development will start soon.
-
-<br>
   
 ##### *Monetary investment is not necessary to play the game but is possible. You will be able to purchase in-game currency from our site once the bot is completed*
+
+<br>
+
+## Contributing
+
+Contributions are always welcome! Feel free to fork this project, report issues/bugs, etc.
+
+See <a href = "CONTRIBUTING.md">`CONTRIBUTING.md`</a> for ways to get started.
+
+Please adhere to this project's <a href = "CODE_OF_CONDUCT.md">`CODE OF CONDUCT`</a>.
+
+---
+
+## License
+
+[MIT](LICENSE)  
